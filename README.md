@@ -1,7 +1,7 @@
 # Hyggex Frontend 
 
 >Tools used 
-\
+
 - React
 - Tailwindcss
 - react-card-flip
