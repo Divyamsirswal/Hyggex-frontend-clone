@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+  font-family: sf-sb;
+  src: url("./assets/fonts/sf-pro-display_semibold.ttf");
+}
+
+@font-face {
+  font-family: st-bd;
+  src: url("./assets/fonts/sf-pro-display_medium.ttf");
+}

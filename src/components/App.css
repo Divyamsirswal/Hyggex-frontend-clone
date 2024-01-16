@@ -1,0 +1,28 @@
+.card1 {
+  width: 600px;
+  height: 350px;
+  border-radius: 20px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  background: linear-gradient(
+    201deg,
+    rgba(2, 0, 36, 1) 1%,
+    rgba(8, 8, 134, 1) 41%,
+    rgba(0, 212, 255, 1) 100%
+  );
+}
+
+
+.card2 {
+  width: 600px;
+  height: 350px;
+  border-radius: 20px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  background: linear-gradient(
+    201deg,
+    rgb(2, 75, 30) 1%,
+    rgb(23, 128, 51) 41%,
+    rgb(144, 239, 174) 100%
+  );
+}
